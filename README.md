@@ -35,7 +35,7 @@ Abrimos Cyberduck y seleccionamos **Nueva Conexión**
 
 ![](http://grabilla.com/06503-51595196-0ac0-4dff-8300-e8d784e49069.png)  
 
-En el primer campo seleccionamos:  
+En el primer campo seleccionamos **S3**:  
 
 ![](http://grabilla.com/06503-3ef2c66e-580d-4d9c-8550-7ef4e96824f5.png)  
 
