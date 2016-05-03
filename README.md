@@ -37,13 +37,10 @@ Abrimos Cyberduck y seleccionamos **Nueva Conexión**
 
 En el primer campo seleccionamos:  
 
-![](http://grabilla.com/06503-146bc1c9-6b3d-4ea0-8003-6631ae77fb0c.png)  
+![](http://grabilla.com/06503-3ef2c66e-580d-4d9c-8550-7ef4e96824f5.png)  
 
-Cumplimentamos los siguientes indicando:  
-
-Nuestro servidor  
-Usuario   
-Contraseña   
+Cumplimentamos los datos de las credenciales.
+  
 
 ATENCIÓN: Si **no** queremos que nos guarde la contraseña no seleccionar el campo  
  **Guardar contraseña**  
