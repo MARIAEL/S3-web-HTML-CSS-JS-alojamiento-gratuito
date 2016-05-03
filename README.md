@@ -23,7 +23,10 @@ Seleccionamos **Continue to Security Credentials**
 
 Y ahora **Access keys**  
 
-![](http://grabilla.com/06503-4ce6f083-6cb1-4157-b2f3-8372ea970b2c.png)
+![](http://grabilla.com/06503-4ce6f083-6cb1-4157-b2f3-8372ea970b2c.png)  
+
+
+![](http://grabilla.com/06503-2aafaf5f-c81d-449c-915c-c437adfdb5c3.png)
 
 Copiamos la **Access Key ID** y la **Secret Access Key** y las guardamos en un sitio seguro, pues las vamos a necesitar para conectar Cyberduck con el servicio **S3**.  
 
