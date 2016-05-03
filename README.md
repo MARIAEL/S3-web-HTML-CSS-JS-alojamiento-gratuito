@@ -50,7 +50,7 @@ ATENCIÓN: Si **no** queremos que nos guarde la contraseña no seleccionar el ca
 
 ###4.- Crear index.html con SBT (Sublime Text) y subirlo a S3  
 
-Creamos un archivo desde Sublime Text y lo guardamos en e escritorio.  
+Creamos un archivo desde Sublime Text y lo guardamos en el escritorio.  
 
 ![](http://grabilla.com/06503-5bd00fba-e4ff-4b7a-9fe0-78ca665dd2d2.png)
 ###5.- Crear un bucket y configurarlo como web  
