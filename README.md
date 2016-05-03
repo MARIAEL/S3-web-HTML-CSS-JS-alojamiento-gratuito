@@ -46,12 +46,47 @@ Cumplimentamos los datos de las credenciales.
 ATENCIÓN: Si **no** queremos que nos guarde la contraseña no seleccionar el campo  
  **Guardar contraseña**  
 
-
-
-###4.- Crear index.html con SBT (Sublime Text) y subirlo a S3  
+ ###4.- Crear index.html con SBT (Sublime Text) y subirlo a S3  
 
 Creamos un archivo desde Sublime Text y lo guardamos en el escritorio.  
 
-![](http://grabilla.com/06503-5bd00fba-e4ff-4b7a-9fe0-78ca665dd2d2.png)
+![](http://grabilla.com/06503-5bd00fba-e4ff-4b7a-9fe0-78ca665dd2d2.png)  
+
+Seleccionamos la carpeta a la que queremos subir el archivo y click en **subir**  
+
+![](http://grabilla.com/06503-75fdfff6-9bc5-4bc3-96a1-f899c0650f1a.png)  
+
+
 ###5.- Crear un bucket y configurarlo como web  
-###6.- Previsualizar nuestra mini-web.
+
+Vamos a S3 (Amazon AWS) para crear un bucket.  
+
+![](http://grabilla.com/06503-a682fd47-2c68-47ec-92f2-7bdfe469156c.png)  
+
+El nombre que le demos ha de ser único (como si se tratara de un dominio).
+
+Seleccionamos:  
+
+![](http://grabilla.com/06503-0d1d895e-97db-40cc-8761-06a6760ffb24.png)
+
+![](http://grabilla.com/06503-bc0ca59f-5449-4362-8047-ee2a6bf29916.png)  
+
+![](http://grabilla.com/06503-a986acf0-5fa7-4f21-9fa4-1e5bbeb9ac6b.png)  
+
+De este modo hemos configurado nuestro bucket como web.  
+
+Ahora podemos entrar en el nuevo bucket y crear las carpetas:  
+
+docs  
+imagenes  
+webs  
+
+
+###6.- Previsualizar nuestra mini-web.  
+
+Para previsualizarlo hemos de ir al bucket y click en la lupa de su izquierda  
+
+![](http://grabilla.com/06503-6524116c-bc02-426f-9ae5-f7ebfa9e6352.png)  
+
+En **Static Website Hosting** tendremos la url en **Endpoint:**
+
