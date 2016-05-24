@@ -46,7 +46,7 @@ Cumplimentamos los datos de las credenciales.
 ATENCIÓN: Si **no** queremos que nos guarde la contraseña no seleccionar el campo  
  **Guardar contraseña**  
 
- ###4.- Crear index.html con SBT (Sublime Text) y subirlo a S3  
+###4.- Crear index.html con SBT (Sublime Text) y subirlo a S3  
 
 Creamos un archivo desde Sublime Text y lo guardamos en el escritorio.  
 
